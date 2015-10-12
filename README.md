@@ -1,7 +1,6 @@
 # Example-mirage
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Thanks for checking out this example! This example goes over how to use Ember CLI Mirage. Check out [ProgramWithErik](http://www.programwitherik.com) for more information!
 
 ## Prerequisites
 
